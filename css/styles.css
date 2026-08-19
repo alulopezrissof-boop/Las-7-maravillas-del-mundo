@@ -1,0 +1,12 @@
+.maravillas{
+  display: flex;
+  background-color: red;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  margin-bottom: 25px;
+
+}
+.maravillas img{
+  width: 300px;
+}
