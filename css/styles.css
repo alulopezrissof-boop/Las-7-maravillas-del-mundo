@@ -1,6 +1,6 @@
 .maravillas{
   display: flex;
-  background-color: red;
+  background-color:rgb(231, 236, 149);
   flex-direction: row;
   flex-wrap: wrap;
   justify-content: space-between;
