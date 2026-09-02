@@ -30,28 +30,3 @@ img{
   width: 250px;
   height: auto;
 }
-.cristo{
-  display: flex;
-  align-items: center;
-  gap: 50px;
-  margin: 30px;
-}
-
-.contenido img {
-
-  width: 450px;
-  height: auto;
-}
-
-.texto-cristo{
-  flex: 1;
-}
-
-.texto-cristo h2 {
-  font-size: 30px;
-}
-
-.texto-cristo p {
-  font-size: 20px;
-  line-height: 1.6;
-}
