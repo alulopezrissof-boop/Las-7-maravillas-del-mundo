@@ -26,10 +26,20 @@ nav a {
   text-decoration: none;
   color: #555;
 }
-
- img{
+img{
   width: 250px;
   height: auto;
- }
-  
- 
+}
+.contenido{
+  display: flex;
+  gap: 30px;
+}
+
+.contenido img {
+
+  width: 300px;
+  height: auto;
+}
+.informacion {
+   width: 500px;
+}
