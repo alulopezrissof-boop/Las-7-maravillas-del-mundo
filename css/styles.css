@@ -11,9 +11,9 @@ body{
 
 }
 .maravillas img{
-  width: 300px;
+  width: 200px;
   height: 200px;
-  object-fit: contain;
+  object-fit: cover;
   
 }
 nav a {
@@ -29,4 +29,7 @@ nav a {
 img{
   width: 250px;
   height: auto;
+}
+.CristoRedentor{
+  background-color: lightblue;
 }
