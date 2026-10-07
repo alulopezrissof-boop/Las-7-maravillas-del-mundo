@@ -96,6 +96,14 @@ footer {
 }
 .imgitza{
   border: 5px solid rgb(170, 138, 95);
+  
+}
+.presentacionitza{
+  border: 5px solid rgb(170, 138, 95);
+  transform: scale(0.8) !important;
+  transform-origin: top left !important;
+  margin-bottom: -110px;
+
 }
 .imgcoliseo{
   border: 5px solid rgb(231, 236, 149);
