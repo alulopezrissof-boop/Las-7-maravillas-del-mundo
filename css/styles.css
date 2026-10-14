@@ -87,6 +87,10 @@ footer {
 #sub-titulo5{
   color: rgba(218, 175, 36, 0.788);
 }
+#sub-titulo6{
+  color: rgba(212, 117, 93, 0.788);
+}
+
 .imgcristo{
   
   border: 5px solid rgb(75, 150, 150);
@@ -134,4 +138,11 @@ footer {
   transform: scale(0.7) !important;
   transform-origin: top left !important;
   margin-bottom: -110px;
+}
+.imgchina{
+  border: 5px solid rgba(212, 117, 93, 0.788); 
+}
+.videochina{
+  border: 5px solid rgba(212, 117, 93, 0.788); 
+
 }
