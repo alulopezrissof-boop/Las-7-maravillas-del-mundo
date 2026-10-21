@@ -3,14 +3,19 @@
 }
 body{
   font-family: Arial,sans-serif;
+  background-color:rgb(254, 255, 241);
 }
 .maravillas{
   display: flex;
+  margin: 0 auto;
+  width: 70%;
   background-color:rgb(231, 236, 149);
   flex-direction: row;
   flex-wrap: wrap;
   justify-content: space-between;
   margin-bottom: 25px;
+  gap: 5px;
+  padding: 25px;
 
 }
 .maravillas img{
@@ -181,4 +186,44 @@ footer {
 transform: scale(0.7) !important;
   transform-origin: top left !important;
   margin-bottom: -110px;
+}
+
+.foto-con-nombre {
+  position: relative;
+  display: inline-block;
+}
+
+.nombre-foto {
+  position: absolute;
+  top: 50%;
+  left: calc(100% + 10px);
+  transform: translateY(-50%);
+  background: white;
+  color: #000;
+  padding: 10px;
+  border-radius: 8px;
+  box-shadow: 2px 3px 8px;
+  opacity: 0;
+  visibility: hidden;
+  transition: 0.3s;
+  z-index: 10;
+}
+
+.foto-con-nombre:hover .nombre-foto {
+  opacity: 1;
+  visibility: visible;
+}
+.encuesta {
+  border: 2px solid #c5a6d8;
+  border-radius: 15px;
+  padding: 20px;
+  margin: 20px 0;
+  background-color: rgb(231, 236, 149);
+}
+
+.encuesta legend{
+  font-size: 18px;
+  font-weight: bold;
+  color: #c5a6d8;
+  padding: 0 10px;
 }
