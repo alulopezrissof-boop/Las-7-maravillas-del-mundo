@@ -46,28 +46,38 @@ img{
 }
 footer {
   background-color: #000;
-  color: #d4d4d4;
+  color: black;
   display: flex;
   flex-wrap: wrap;
   justify-content: space-evenly;
 }
 #colegio {
   width: 33%;
-  background-color: red;
+  background-color: lightblue;
   padding: 5px;
 }
 #colegio a {
-  color: #d4d4d4;
+  color: black;
 }
 #alumno {
   width: 33%;
-  background-color: yellow;
-  color: #aaa;
+  background-color: lightblue;
+  color:black;
   padding: 5px;
 }
 #alumno a {
-  color: #aaa;
+  color: black;
 }
+#redes {
+  width: 33%;
+  background-color: lightblue;
+  padding: 5px;
+}
+#redes img {
+  width: 50px;
+}
+/*fin del footer*/
+
 #sociales {
   width: 33%;
   background-color: lightblue;
