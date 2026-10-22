@@ -231,9 +231,10 @@ transform: scale(0.7) !important;
   background-color:rgb(231, 236, 149);
 }
 
-.encuesta legend{
+.encuesta .pregunta {
   font-size: 18px;
   font-weight: bold;
-  color: #3b383d;
-  padding: 0 10px;
+  color: black;
+  margin-top: 0;
+  margin-bottom: 20px;
 }
