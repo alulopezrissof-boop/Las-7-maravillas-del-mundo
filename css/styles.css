@@ -3,8 +3,9 @@
 }
 body{
   font-family: Arial,sans-serif;
-  background-color:rgb(254, 255, 241);
+  background-color:rgb(238, 255, 214);
 }
+
 .maravillas{
   display: flex;
   margin: 0 auto;
