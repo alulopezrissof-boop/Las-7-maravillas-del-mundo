@@ -116,11 +116,14 @@ footer {
 .imgcristo{
   
   border: 5px solid rgb(75, 150, 150);
+  border-radius: 20px;
+  width: 200px;
+  height: auto;
  
 }
 .videocristo{
   border: 5px solid rgb(75, 150, 150);
-  
+  border-radius: 20px;
 }
 .presentacioncristo{
   border: 5px solid rgb(75, 150, 150);
@@ -130,10 +133,13 @@ footer {
 }
 .imgpichu{
   border: 5px solid rgb(70, 145, 70);
-  width: 500px;
+  border-radius: 20px;
+  width: 300px;
+  height: auto;
 }
 .videopichu{
   border: 5px solid rgb(70, 145, 70);
+  border-radius: 20px;
 }
 .presentacionpichu{
   border: 5px solid rgb(70, 145, 70);
@@ -143,7 +149,13 @@ footer {
 }
 .imgitza{
   border: 5px solid rgb(170, 138, 95);
-  
+  border-radius: 20px;
+  width: 300px;
+  height: auto;
+}
+.videochichen{
+  border: 5px solid rgb(170, 138, 95);
+  border-radius: 20px;
 }
 .presentacionitza{
   border: 5px solid rgb(170, 138, 95);
@@ -154,6 +166,9 @@ footer {
 }
 .imgcoliseo{
   border: 5px solid rgb(231, 236, 149);
+  border-radius: 20px;
+  width: 300px;
+  height: auto;
 }
 .presentacioncoliseo {
   border: 7px solid rgb(231, 236, 149);
@@ -163,6 +178,9 @@ footer {
 }
 .imgchina{
   border: 5px solid rgba(212, 117, 93, 0.788); 
+  border-radius: 20px;
+  width: 200px;
+  height: auto;
 }
 .videochina{
   border: 5px solid rgba(212, 117, 93, 0.788); 
@@ -176,6 +194,9 @@ footer {
 }
 .imgpetra{
   border: 5px solid rgb(156, 105, 168);
+  border-radius: 20px;
+  width: 200px;
+  height: auto;
 }
 .videopetra{
   border: 5px solid rgb(156, 105, 168);
@@ -187,7 +208,10 @@ footer {
   margin-bottom: -110px;
 }
 .imgtaj{
- border: 5px solid rgb(235, 141, 188)
+ border: 5px solid rgb(235, 141, 188);
+ border-radius: 20px;
+ width: 250px;
+ height: auto;
 } 
 .videotaj{
   border: 5px solid rgb(235, 141, 188)
