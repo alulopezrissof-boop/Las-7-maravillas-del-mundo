@@ -293,14 +293,7 @@ a[href="#"]:hover {
 }
 
 audio {
-  border: 5px solid #a8d8e8;
+  border: 5px solid #b7d8f5;
   border-radius: 25px;
-}
-.encabezado {
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-  width: 100%;
-  gap: 20px;
 }
 
