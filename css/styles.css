@@ -164,6 +164,10 @@ footer {
   margin-bottom: -110px;
 
 }
+.videocoliseo{
+  border: 5px solid rgb(231, 236, 149); 
+  border-radius: 20px;
+}
 .imgcoliseo{
   border: 5px solid rgb(231, 236, 149);
   border-radius: 20px;
@@ -179,12 +183,12 @@ footer {
 .imgchina{
   border: 5px solid rgba(212, 117, 93, 0.788); 
   border-radius: 20px;
-  width: 200px;
+  width: 250px;
   height: auto;
 }
 .videochina{
   border: 5px solid rgba(212, 117, 93, 0.788); 
-
+  border-radius: 20px;
 }
 .presentacionchina{
   border: 5px solid rgba(212, 117, 93, 0.788); 
@@ -195,11 +199,12 @@ footer {
 .imgpetra{
   border: 5px solid rgb(156, 105, 168);
   border-radius: 20px;
-  width: 200px;
+  width: 250px;
   height: auto;
 }
 .videopetra{
   border: 5px solid rgb(156, 105, 168);
+  border-radius: 20px;
 }
 .presentacionpetra{
   border: 5px solid rgb(156, 105, 168);
@@ -210,12 +215,13 @@ footer {
 .imgtaj{
  border: 5px solid rgb(235, 141, 188);
  border-radius: 20px;
- width: 250px;
+ width: 300px;
  height: auto;
 } 
 .videotaj{
-  border: 5px solid rgb(235, 141, 188)
-
+  border: 5px solid rgb(235, 141, 188);
+  border-radius: 20px;
+  
 }
 .presentaciontaj{
  border: 5px solid rgb(235, 141, 188);
