@@ -289,5 +289,10 @@ a[href="#"] {
 }
 
 a[href="#"]:hover {
-  background: #217dbb;
+  background: #a8d8e8;
+}
+
+audio {
+  border: 5px solid #a8d8e8;
+  border-radius: 25px;
 }
