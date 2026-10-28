@@ -35,6 +35,9 @@ nav a {
   text-decoration: none;
   color: #555;
 }
+nav a:hover{
+  background-color: #BDE0FE;
+}
 
 img{
   width: 250px;
