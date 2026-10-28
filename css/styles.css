@@ -298,4 +298,29 @@ audio {
 }
 #titulo{
   display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  flex: 1;
+}
+header{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px 30px;
+  gap: 20px;
+}
+#titulo h1{
+  margin: 0 0 20px 0;
+  font-size: 32px;
+
+}
+#logo {
+  flex-shrink: 0;
+  margin-right: 40px;
+
+}
+#logo img{
+  width: 180px;
+  height: auto;
+  display: block;
 }
