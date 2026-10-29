@@ -160,6 +160,9 @@ footer {
   border: 5px solid rgb(170, 138, 95);
   border-radius: 20px;
 }
+iframe {
+  border: 0;
+}
 .presentacionitza{
   border: 5px solid rgb(170, 138, 95);
   transform: scale(0.8) !important;
